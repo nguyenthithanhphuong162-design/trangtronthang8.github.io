@@ -17,3 +17,54 @@ button{
     border-radius:8px;
     cursor:pointer;
 }
+.fund-item{
+
+    margin-bottom:45px;
+
+}
+
+.fund-item h3{
+
+    margin-bottom:10px;
+
+    color:#444;
+
+}
+
+.money{
+
+    text-align:center;
+
+    font-size:22px;
+
+    margin-bottom:15px;
+
+}
+
+.progress{
+
+    width:100%;
+
+    height:24px;
+
+    background:#ddd;
+
+    border-radius:30px;
+
+    overflow:hidden;
+
+}
+
+.progress-bar{
+
+    height:100%;
+
+    width:0%;
+
+    background:#F4A000;
+
+    border-radius:30px;
+
+    transition:0.5s;
+
+}
